@@ -1,0 +1,37 @@
+
+
+:hov
+
+.cls
+
+element.style {
+}
+style.css:1
+body.demo {
+    background: #fff;
+    min-width: 1000px;
+}
+style.css:1
+body {
+    background: url(../images/bg1.png) 0px -35px repeat-x;
+    color: #656b70;
+    font-size: 10pt;
+}
+style.css:1
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Trebuchet MS", san-serif;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Inherited from html.gr__freewebtemplates_com
+style.css:1
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Trebuchet MS", san-serif;
+}
